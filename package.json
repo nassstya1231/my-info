@@ -1,0 +1,13 @@
+{
+  "name": "my-info",
+  "version": "1.0.0",
+  "description": "Програма з інформацією про Наконечну Анастасію Юріївну",
+  "main": "client.js",
+  "type": "module",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "keywords": [],
+  "author": "Анастасія Наконечна",
+  "license": "ISC"
+}
